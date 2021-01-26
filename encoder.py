@@ -90,8 +90,6 @@ def menu():
         encrypt_data_save()
     else:
         recur=False
-    
-#encrypt('[[65,39],["Key of Chiron"]]',"Key of Chiron")
 
 data_code=[]
 data=[]
